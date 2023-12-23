@@ -1,1 +1,1 @@
-# gtk-metronome
+![Poly Pulse Logo](images/polypulse.png)
